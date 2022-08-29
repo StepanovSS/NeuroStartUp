@@ -7,5 +7,3 @@
 * р
 * р
 * р
-* р
-* рrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
